@@ -23,22 +23,30 @@ The goal is to help students give their best shot and finish favorable graduate 
 
 ## Schedule
 
-| Date      | Speaker                                              |                   Slides                |
-|-----------|------------------------------------------------------| --------------------------------------- |
-| Feb. 22nd | [Exampele Rong](https://cn.bing.com/)                |  [Example Title](https://cn.bing.com/)  |
-| Mar. 1st  |            TBD                                       |                    None                 |
-| Mar. 8th  |            TBD                                       |                    None                 |
-| Mar. 15th |            TBD                                       |                    None                 |
-| Mar. 22nd |            TBD                                       |                    None                 |
-| Mar. 29th |            TBD                                       |                    None                 |
-| Apr. 5th  |            TBD                                       |                    None                 |
-| Apr. 12th |            TBD                                       |                    None                 |
-
- 
+| Date      | Speaker                                           |                   Slides                |                   Videos              |
+|-----------|---------------------------------------------------| --------------------------------------- | ------------------------------------- |
+| Feb. 22nd | [Exampele Rong](https://cn.bing.com/)             |  [Example Title](https://cn.bing.com/)  |  [Example Video](https://cn.bing.com/)|
+| Mar. 1st  |            TBD                                    |                    None                 |                    None               |
+| Mar. 8th  |            TBD                                    |                    None                 |                    None               |
+| Mar. 15th |            TBD                                    |                    None                 |                    None               |
+| Mar. 22nd |            TBD                                    |                    None                 |                    None               |
+| Mar. 29th |            TBD                                    |                    None                 |                    None               |
+| Apr. 5th  |            TBD                                    |                    None                 |                    None               |
+| Apr. 12th |            TBD                                    |                    None                 |                    None               |
 
 ## Materials
 
-Email, poster, flyer, and RSVP
-Slides & Handout
-Feedback
+Email, poster, flyer, and RSVP  
+Slides & Handout  
+Feedback  
+
+## Contribution Guide
+
+If you have anything you want to add, please feel free to contact us or send and issue to this repo. 
+We will reply ASAP.
+
+## Contact
+
+Yike Li:   yike.pear@gmail.com   
+Peter Rong:  PeterRong96@gmail.com
 
