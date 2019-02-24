@@ -2,7 +2,7 @@
 
 Here we would be storying some materials for graduation application.
 
-Prepared by Yike, Peter
+Prepared by Yike, Peter, Junren & Zhengyang
 
 ## Overview
 
@@ -23,16 +23,17 @@ The goal is to help students give their best shot and finish favorable graduate 
 
 ## Schedule
 
-| Date      | Speaker                                           |                   Slides                |                   Videos              |
-|-----------|---------------------------------------------------| --------------------------------------- | ------------------------------------- |
-| Feb. 22nd | [Exampele Rong](https://cn.bing.com/)             |  [Example Title](https://cn.bing.com/)  |  [Example Video](https://cn.bing.com/)|
-| Mar. 1st  |            TBD                                    |                    None                 |                    None               |
-| Mar. 8th  |            TBD                                    |                    None                 |                    None               |
-| Mar. 15th |            TBD                                    |                    None                 |                    None               |
-| Mar. 22nd |            TBD                                    |                    None                 |                    None               |
-| Mar. 29th |            TBD                                    |                    None                 |                    None               |
-| Apr. 5th  |            TBD                                    |                    None                 |                    None               |
-| Apr. 12th |            TBD                                    |                    None                 |                    None               |
+Slides and videos are attached using ShanghaiTech Cloud service. It can be retrived when you are connected to ShanghaiTech wifi.
+
+| Date      | Topic | Speaker   |   Videos        |
+|-----------|-------| --------- | --------------- |
+| Mar. 1st  | None  | Yike Li   |     None        |
+| Mar. 8th  | None  |  TBD      |     None        |
+| Mar. 15th | None  |  TBD      |     None        |
+| Mar. 22nd | None  |  TBD      |     None        |
+| Mar. 29th | None  |  TBD      |     None        |
+| Apr. 5th  | None  |  TBD      |     None        |
+| Apr. 12th | None  |  TBD      |     None        |
 
 ## Materials
 
@@ -42,11 +43,13 @@ Feedback
 
 ## Contribution Guide
 
-If you have anything you want to add, please feel free to contact us or send and issue to this repo. 
+If you have anything you want to add, please feel free to contact us or send an issue to this repo. 
 We will reply ASAP.
 
 ## Contact
 
 Yike Li:   yike.pear@gmail.com   
 Peter Rong:  PeterRong96@gmail.com
+JunRen Zheng: zhengjr@shanghaitech.edu.cn
+Zhenyang Li: lizhy1@shanghaitech.edu.cn
 
