@@ -25,15 +25,16 @@ The goal is to help students give their best shot and finish favorable graduate 
 
 Slides and videos are attached using ShanghaiTech Cloud service. It can be retrived when you are connected to ShanghaiTech wifi.
 
-| Date      | Topic | Speaker   |   Videos        |
+| Date      | Topic | Speakers   |   Videos        |
 |-----------|-------| --------- | --------------- |
-| Mar. 1st  | None  | Yike Li   |     None        |
-| Mar. 8th  | None  |  TBD      |     None        |
-| Mar. 15th | None  |  TBD      |     None        |
-| Mar. 22nd | None  |  TBD      |     None        |
-| Mar. 29th | None  |  TBD      |     None        |
-| Apr. 5th  | None  |  TBD      |     None        |
-| Apr. 12th | None  |  TBD      |     None        |
+| Mar. 2st  | [Fill out an application form](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUxMzczNjEyODMyc3Vnb24=#0-sqq-1-85652-9737f6f9e09dfaf5d3fd14d775bfee85)  | Yike Li, Zhenyang Li   |     In a Sec        |
+| Mar. 9th  | [Want a research internship?](about::blank)  |  TBD      |     In a Sec        |
+| Mar. 16th | [Pick the Right Programs](about::blank)  |  TBD      |     In a Sec        |
+| Mar. 23rd | [How to ask for recommendation letters?](about::blank)  |  TBD      |     In a Sec        |
+| Mar. 30th | [Sell yourself in your resume](about::blank)  |  TBD      |     In a Sec        |
+| Apr. 6th  | [Application essay I](about::blank)  |  TBD      |     In a Sec        |
+| Apr. 13th | [Application essay II](about::blank)  |  TBD      |     In a Sec        |
+| Apr. 20th | [Timeline and other details](about::blank)  |  TBD      |     In a Sec        |
 
 ## Materials
 
