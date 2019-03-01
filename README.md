@@ -50,7 +50,7 @@ We will reply ASAP.
 ## Contact
 
 Yike Li:   yike.pear@gmail.com   
-Peter Rong:  PeterRong96@gmail.com
-JunRen Zheng: zhengjr@shanghaitech.edu.cn
-Zhenyang Li: lizhy1@shanghaitech.edu.cn
+Peter Rong:  PeterRong96@gmail.com  
+JunRen Zheng: zhengjr@shanghaitech.edu.cn  
+Zhenyang Li: lizhy1@shanghaitech.edu.cn  
 
