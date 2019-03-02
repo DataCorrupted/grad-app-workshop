@@ -25,16 +25,16 @@ The goal is to help students give their best shot and finish favorable graduate 
 
 Slides and videos are attached using ShanghaiTech Cloud service. It can be retrived when you are connected to ShanghaiTech wifi.
 
-| Date      | Topic | Speakers   |   Videos        | Attachments |
-|-----------|-------| --------- | --------------- | ------------ |
-| Mar. 2st  | [Fill out an application form](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUxMzczNjEyODMyc3Vnb24=#0-sqq-1-85652-9737f6f9e09dfaf5d3fd14d775bfee85)  | Yike Li   |            | [App Form Template](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUxNTE2NDE0NDE5c3Vnb24=#0-sqq-1-33881-9737f6f9e09dfaf5d3fd14d775bfee85) |
-| Mar. 9th  | [Want a research internship?](about::blank)  |  [Peter Rong](https://peterrong.netlify.com/)      |            |  |
-| Mar. 16th | [Pick the Right Programs](about::blank)  |        |            |  |
-| Mar. 23rd | [How to ask for recommendation letters?](about::blank)  |  Zhenyang Li      |            |  |
-| Mar. 30th | [Sell yourself in your resume](about::blank)  |        |            |  |
-| Apr. 6th  | [Application essay I](about::blank)  |        |            |  |
-| Apr. 13th | [Application essay II](about::blank)  |        |            |  |
-| Apr. 20th | [Timeline and other details](about::blank)  |        |            |  |
+| Date      | Topic | Speakers   |
+|-----------|-------| --------- |
+| Mar. 2st  | [Fill out an application form](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUxNTE3MDE2Nzgxc3Vnb24=#0-sqq-1-76318-9737f6f9e09dfaf5d3fd14d775bfee85)  | Yike Li   |            |
+| Mar. 9th  | [Want a research internship?](about::blank)  |  [Peter Rong](https://peterrong.netlify.com/)      |            |
+| Mar. 16th | [Pick the Right Programs](about::blank)  |
+| Mar. 23rd | [How to ask for recommendation letters?](about::blank)  |  Zhenyang Li      |
+| Mar. 30th | [Sell yourself in your resume](about::blank)  | 
+| Apr. 6th  | [Application essay I](about::blank)  |        | 
+| Apr. 13th | [Application essay II](about::blank)  |        |
+| Apr. 20th | [Timeline and other details](about::blank)  |        |
 
 ## Materials
 
