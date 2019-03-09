@@ -28,7 +28,7 @@ Slides and videos are attached using ShanghaiTech Cloud service. It can be retri
 | Date      | Topic | Speakers   |
 |-----------|-------| --------- |
 | Mar. 2st  | [Fill out an application form](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUxNTE3MDE2Nzgxc3Vnb24=#0-sqq-1-76318-9737f6f9e09dfaf5d3fd14d775bfee85)  | Yike Li   |            |
-| Mar. 9th  | [Want a research internship?](about::blank)  |  [Peter Rong](https://peterrong.netlify.com/)      |            |
+| Mar. 9th  | [Want a research internship?](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUyMDYwMzM3NjQ5c3Vnb24=#0-sqq-1-86212-9737f6f9e09dfaf5d3fd14d775bfee85)  |  [Peter Rong](https://peterrong.netlify.com/)      |            |
 | Mar. 16th | [Pick the Right Programs](about::blank)  |
 | Mar. 23rd | [How to ask for recommendation letters?](about::blank)  |  Zhenyang Li      |
 | Mar. 30th | [Sell yourself in your resume](about::blank)  | 
