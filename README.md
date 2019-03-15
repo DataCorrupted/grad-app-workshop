@@ -1,8 +1,10 @@
 # Graduate School Application Workshop
 
-Here we would be storying some materials for graduation application.
+Here we would be storing some materials for our graduation application workshop.
 
-Prepared by Yike, Peter, Junren & Zhengyang
+Prepared by Yike, Peter, Junren, Zhengyang, Yuechen
+
+You may find the organizers and speakers contact below.
 
 ## Overview
 
@@ -25,20 +27,20 @@ The goal is to help students give their best shot and finish favorable graduate 
 
 Slides and videos are attached using ShanghaiTech Cloud service. It can be retrived when you are connected to ShanghaiTech wifi.
 
-| Date      | Topic | Speakers   |
-|-----------|-------| --------- |
-| Mar. 2st  | [Fill out an application form](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUxNTE3MDE2Nzgxc3Vnb24=#0-sqq-1-76318-9737f6f9e09dfaf5d3fd14d775bfee85)  | Yike Li   |            |
-| Mar. 9th  | [Want a research internship?](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUyMDYwMzM3NjQ5c3Vnb24=#0-sqq-1-86212-9737f6f9e09dfaf5d3fd14d775bfee85)  |  [Peter Rong](https://peterrong.netlify.com/)      |            |
-| Mar. 16th | [Pick the Right Programs](about::blank)  |
-| Mar. 23rd | [How to ask for recommendation letters?](about::blank)  |  Zhenyang Li      |
+| Date      | Topic | Speaker(s)   |
+|-----------|-------| ------------ |
+| Mar. 2st  | [Fill out an application form](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUxNTE3MDE2Nzgxc3Vnb24=#0-sqq-1-76318-9737f6f9e09dfaf5d3fd14d775bfee85)  | Yike Li |       
+| Mar. 9th  | [Want a research internship?](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUyMDYwMzM3NjQ5c3Vnb24=#0-sqq-1-86212-9737f6f9e09dfaf5d3fd14d775bfee85)  |  [Peter](https://peterrong.netlify.com/) & Yiwen   |      
+| Mar. 16th | [Pick the right program](about::blank)  | Junren, Yuechen & [Peter](https://peterrong.netlify.com/)
+| Mar. 23rd | [How to ask for recommendation letters?](about::blank)  |  Zhenyang |
 | Mar. 30th | [Sell yourself in your resume](about::blank)  | 
 | Apr. 6th  | [Application essay I](about::blank)  |        | 
 | Apr. 13th | [Application essay II](about::blank)  |        |
-| Apr. 20th | [Timeline and other details](about::blank)  |        |
+| Apr. 20th | [Time line and other details](about::blank)  |        |
 
 ## Materials
 
-Email, poster, flyer, and RSVP  
+Email, poster, and RSVP  
 Slides & Handout  
 Feedback  
 
@@ -51,6 +53,7 @@ We will reply ASAP.
 
 Yike Li:   yike.pear@gmail.com   
 Peter Rong:  PeterRong96@gmail.com  
-JunRen Zheng: zhengjr@shanghaitech.edu.cn  
+Junren Zheng: zhengjr@shanghaitech.edu.cn  
 Zhenyang Li: lizhy1@shanghaitech.edu.cn  
-
+Yuechen Wu: wuych1997@gmail.com  
+Yiwen Chen: yiw.chen@gmail.com
