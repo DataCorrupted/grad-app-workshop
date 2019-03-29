@@ -32,8 +32,8 @@ Slides and videos are attached using ShanghaiTech Cloud service. It can be retri
 | Mar. 2st  | [Fill out an application form](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUxNTE3MDE2Nzgxc3Vnb24=#0-sqq-1-76318-9737f6f9e09dfaf5d3fd14d775bfee85)  | Yike Li |       
 | Mar. 9th  | [Want a research internship?](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUyMDYwMzM3NjQ5c3Vnb24=#0-sqq-1-86212-9737f6f9e09dfaf5d3fd14d775bfee85)  |  [Peter](https://peterrong.netlify.com/) & Yiwen   |      
 | Mar. 16th | [Pick the right program](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUyNzMyMDA2NzA5c3Vnb24=)  | Junren, Yuechen & [Peter](https://peterrong.netlify.com/)
-| Mar. 23rd | [Things about recommendations](about::blank)  |  Zhenyang |
-| Mar. 30th | [Sell yourself in your CV](about::blank)  | 
+| Mar. 23rd | [Things about recommendations](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUzNzc4MzcwMjAyc3Vnb24=#0-sqq-1-94829-9737f6f9e09dfaf5d3fd14d775bfee85)  |  Zhenyang |
+| Mar. 30th | [Sell yourself in your CV](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUzNzc4NDM0NDA5c3Vnb24=#0-sqq-1-13750-9737f6f9e09dfaf5d3fd14d775bfee85)  | Dinghong |
 | Apr. 6th  | [Application essay I](about::blank)  |        | 
 | Apr. 13th | [Application essay II](about::blank)  |        |
 | Apr. 20th | [Time line and other details](about::blank)  |        |
