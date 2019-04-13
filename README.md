@@ -35,7 +35,7 @@ Slides and videos are attached using ShanghaiTech Cloud service. It can be retri
 | Mar. 23rd | [Things about recommendations](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUzNzc4MzcwMjAyc3Vnb24=#0-sqq-1-94829-9737f6f9e09dfaf5d3fd14d775bfee85)  |  Zhenyang |
 | Mar. 30th | [Sell yourself in your CV](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTU0MTIxMjgyMzIwc3Vnb24=#0-sqq-1-83218-9737f6f9e09dfaf5d3fd14d775bfee85)  | Dinghong |
 | Apr. 6th   | Holiday | |
-| Apr. 13th  | [Application essay I](about::blank)  |        | 
+| Apr. 13th  | [Application essay I](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTU1MTUxNDI4ODIwc3Vnb24=#0-sqq-1-77427-9737f6f9e09dfaf5d3fd14d775bfee85)  | Zhonglin Nian       | 
 | Apr. 20th | [Application essay II](about::blank)  |        |
 | Apr. 27th | [Time line and other details](about::blank)  |        |
 
@@ -58,3 +58,4 @@ Junren Zheng: zhengjr@shanghaitech.edu.cn
 Zhenyang Li: lizhy1@shanghaitech.edu.cn  
 Yuechen Wu: wuych1997@gmail.com  
 Yiwen Chen: yiw.che@gmail.com
+Zhongling Nian: nianzhl@shanghaitech.edu.cn
