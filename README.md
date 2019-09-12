@@ -22,13 +22,13 @@ Slides and videos are attached using ShanghaiTech Cloud service. It can be retri
 
 | Date      | Topic | Speaker(s)   |
 |-----------|-------| ------------ |
-| Mar. 2st  | [Fill out an application form](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUxNTE3MDE2Nzgxc3Vnb24=#0-sqq-1-76318-9737f6f9e09dfaf5d3fd14d775bfee85)  | Yike  |       
-| Mar. 9th  | [Want a research internship?](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUyMDYwMzM3NjQ5c3Vnb24=#0-sqq-1-86212-9737f6f9e09dfaf5d3fd14d775bfee85)  |  [Peter](https://peterrong.netlify.com/) & Yiwen   |      
+| Mar. 2st  | [Fill out an application form](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  | Yike  |       
+| Mar. 9th  | [Want a research internship?](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  |  [Peter](https://peterrong.netlify.com/) & Yiwen   |      
 | Mar. 16th | [Pick the right program](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUyNzMyMDA2NzA5c3Vnb24=)  | Junren, Yuechen & [Peter](https://peterrong.netlify.com/)
-| Mar. 23rd | [Things about recommendations](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUzNzc4MzcwMjAyc3Vnb24=#0-sqq-1-94829-9737f6f9e09dfaf5d3fd14d775bfee85)  |  Zhenyang |
-| Mar. 30th | [Sell yourself in your CV](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTU0MTIxMjgyMzIwc3Vnb24=#0-sqq-1-83218-9737f6f9e09dfaf5d3fd14d775bfee85)  | Dinghong |
+| Mar. 23rd | [Things about recommendations](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  |  Zhenyang |
+| Mar. 30th | [Sell yourself in your CV](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  | Dinghong |
 | Apr. 6th   | Holiday | |
-| Apr. 13th  | [Application essay I](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTU1MTUxNDI4ODIwc3Vnb24=#0-sqq-1-77427-9737f6f9e09dfaf5d3fd14d775bfee85)  | Zhonglin Nian       | 
+| Apr. 13th  | [Application essay I](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  | Zhonglin Nian       | 
 | Apr. 20th | [Application essay II](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTU2MDAyMDUwODQxc3Vnb24=)  |  Yike      |
 | Apr. 27th | [Time line and other details](about::blank)  | [Peter](https://peterrong.netlify.com/)       |
 
@@ -36,6 +36,10 @@ Slides and videos are attached using ShanghaiTech Cloud service. It can be retri
 
 If you have anything you want to add, please feel free to contact us or send an issue to this repo. 
 We will reply ASAP.
+
+## Reference Personal Webpage
+
+[Haiming Wu](https://haiminhu.org/)
 
 ## Contact
 
