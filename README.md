@@ -24,12 +24,12 @@ Slides and videos are attached using ShanghaiTech Cloud service. It can be retri
 |-----------|-------| ------------ |
 | Mar. 2st  | [Fill out an application form](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  | Yike  |       
 | Mar. 9th  | [Want a research internship?](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  |  [Peter](https://peterrong.netlify.com/) & Yiwen   |      
-| Mar. 16th | [Pick the right program](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTUyNzMyMDA2NzA5c3Vnb24=)  | Junren, Yuechen & [Peter](https://peterrong.netlify.com/)
+| Mar. 16th | [Pick the right program](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  | Junren, Yuechen & [Peter](https://peterrong.netlify.com/)
 | Mar. 23rd | [Things about recommendations](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  |  Zhenyang |
 | Mar. 30th | [Sell yourself in your CV](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  | Dinghong |
 | Apr. 6th   | Holiday | |
 | Apr. 13th  | [Application essay I](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  | Zhonglin Nian       | 
-| Apr. 20th | [Application essay II](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTU2MDAyMDUwODQxc3Vnb24=)  |  Yike      |
+| Apr. 20th | [Application essay II](http://pan.shanghaitech.edu.cn/cloudservice/outerLink/decode?c3Vnb24xNTY4MTY2ODE4ODAyc3Vnb24=)  |  Yike      |
 | Apr. 27th | [Time line and other details](about::blank)  | [Peter](https://peterrong.netlify.com/)       |
 
 ## Contribution Guide
